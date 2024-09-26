@@ -8,4 +8,3 @@
 - em components, criar pastas dos components
 - criar os components
 - importar os components em App.tsx
-- 
