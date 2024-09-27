@@ -8,3 +8,7 @@
 - em components, criar pastas dos components
 - criar os components
 - importar os components em App.tsx
+- estilizar os components com css separado
+- instalar lib styled-compenents -> npm install styled-components
+- instalar types do styled-compenents -> npm install @types/styled-components
+- refatorar o código com styled-compenents
